@@ -1,0 +1,15 @@
+
+.player-image{
+    height:300px;
+    width: 350px;
+    
+    border-radius: 15px;
+}
+.player-info{
+    background-color: darkgray;
+    
+}
+
+.element{
+    border-radius: 15px;
+}
