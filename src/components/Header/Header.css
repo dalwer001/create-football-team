@@ -2,3 +2,7 @@
 .image-logo{
     height:80px;
 }
+
+.nav-bg{
+    background: linear-gradient(135deg, #f3c5bd 0%,#e86c57 50%,#ea2803 51%,#ff6600 75%,#c72200 100%);
+}

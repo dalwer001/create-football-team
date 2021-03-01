@@ -6,8 +6,8 @@
     border-radius: 15px;
 }
 .player-info{
-    background-color: darkgray;
-    border-top-left-radius: 15px;
+    background: linear-gradient(45deg, #bcd0f2 0%,#f0d6c7 50%,#b7e5dc 100%);
+    border-top-right-radius: 15px;
     border-bottom-right-radius: 15px;
     
 }
@@ -16,3 +16,8 @@
     border-radius: 15px;
 }
 
+.image{
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    background:white;
+}

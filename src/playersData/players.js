@@ -1,3 +1,5 @@
+// Fake Data as players data.
+
 var players =
 [
     {

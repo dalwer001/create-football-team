@@ -3,7 +3,7 @@ import logo from '../../images/epl.png';
 import "./Header.css";
 const Header = () => {
     return (
-        <nav className="navbar navbar-expand-lg navbar-light bg-warning">
+        <nav className="navbar navbar-expand-lg navbar-light nav-bg">
             <div className="container-fluid">
                 <a className="navbar-brand" href="#"><img className="image-logo" src={logo} alt=""/></a>
                 <div>

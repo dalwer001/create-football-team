@@ -1,5 +1,10 @@
 .list-style{
     list-style-type:none;
 }
+.side-bar{
+    background: linear-gradient(135deg, #ebe9f9 0%,#f1e3c5 30%,#bbecbe 51%,#e6a8a2a9 100%);
+}
 
-
+.side-bg{
+    background: linear-gradient(135deg, #f1c5d344 0%,#ebe5f0 100%);
+}

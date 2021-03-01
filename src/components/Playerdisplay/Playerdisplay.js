@@ -7,7 +7,7 @@ const Playerdisplay = (props) => {
     const {image,first_name,last_name,team,salary,position}=props.player;
     return (
         <div className="row m-5 shadow element">
-            <div className="col-md-3">
+            <div className="col-md-3 image">
                 <img className="player-image w-100 p-2" src={image} alt=""/>
             </div>
             <div className="col-md-9 player-info shadow">
